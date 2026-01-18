@@ -1,18 +1,37 @@
 .navbar {
-  background-color:#fff;
-  padding:1rem  2rem;
-  border-bottom:1px solid #E2E8F0;
+  background-color: #fff;
+  padding: 1rem 2rem;
+  border-bottom: 1px solid #e2e8f0;
+  padding-right: 28px;
+  padding-left: 12px;
 }
 
 .navbar-logo img {
-  height:40px;
+  height: 40px;
 }
 
-.nav-link.active{
-  color: #64748B;
-
+.active {
+  color: #64748b;
 }
 
-.active{
-  color: #64748B;
+.nav-link {
+  padding: 6px !important;
+  color:  #64748b;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+}
+
+.nav-link.active {
+  color: #64748b;
+  font-weight: 600;
+}
+
+.nav-item {
+  font-size: 20px;
+}
+
+.nav-item{
+  cursor:pointer;
 }
