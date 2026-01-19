@@ -11,12 +11,16 @@
 }
 
 .active {
-  color: #64748b;
+  color: #3b5ac2;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
 }
 
 .nav-link {
   padding: 6px !important;
-  color:  #64748b;
+  color: #64748b;
   font-family: Inter;
   font-size: 14px;
   font-weight: 600;
@@ -32,6 +36,6 @@
   font-size: 20px;
 }
 
-.nav-item{
-  cursor:pointer;
+.nav-item {
+  cursor: pointer;
 }

@@ -90,6 +90,7 @@ custom-input-group:has(input:focus) label {
   line-height: 16px;
   margin-top:8px;
 }
-.custom-input-group:has(.error-message) > label {
-  color: #d71d1d;
+
+.text-danger-label {
+   color: #d71d1d;
 }
