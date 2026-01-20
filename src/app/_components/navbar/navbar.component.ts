@@ -9,11 +9,5 @@ import { CommonModule, NgClass } from '@angular/common';
   styleUrl: './navbar.component.css'
 })
 export class NavbarComponent {
-  ngOnInit():void{
-    this.mensagem();
-  }
 
-  mensagem(){
-    console.log('Meu componet navbar inicializou(dentro de iuma função)')
-  }
 }
