@@ -94,3 +94,8 @@ custom-input-group:has(input:focus) label {
 .text-danger-label {
    color: #d71d1d;
 }
+
+
+.primary-bottom-margin-top{
+  margin-top:32px;
+}
