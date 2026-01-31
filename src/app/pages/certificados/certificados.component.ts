@@ -19,6 +19,6 @@ export class CertificadosComponent implements OnInit {
 
   ngOnInit(): void {
       this.certificados = this.certificadoSerice.certificados
-    }
   }
+}
 
