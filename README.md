@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="../gerador-certificado/public/certificate/Cover.svg"
+    src="public/certificate/Cover.svg"
     alt="Gestão de Certificados - Cover"
     width="100%"
   />
